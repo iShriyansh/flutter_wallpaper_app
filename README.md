@@ -3,5 +3,5 @@
 Wallpaper app built using Flutter
 
 - MVVM Architecture
-- GetX
-- Uses Method Channel to update wallpaper
+- GetX - State management and DI
+- Uses Method Channel to set the wallpaper
