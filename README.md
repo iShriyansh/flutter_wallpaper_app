@@ -1,4 +1,4 @@
-# wallpaper_x
+# Wallpaper X
 
 Wallpaper app built using Flutter
 
@@ -10,10 +10,10 @@ Wallpaper app built using Flutter
 
 
 
-<div style = "display: flex; gap: 12px; height : 550px">
+<div style = "display: flex; gap: 32px; height : 550px">
 
   
-  <img src="/Screenshot_20230301-212818.png" alt="Wallpaper grid" style="height: 550px;"/>
+  <img src="/Screenshot_20230301-212818.png" alt="Wallpaper grid" style="height: 550px; border-radius: 16px;"/>
   
     
   <img src="/Screenshot_20230301-212842.png" alt="Preview" style="height: 550px;"/>
