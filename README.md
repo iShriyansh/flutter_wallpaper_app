@@ -9,23 +9,18 @@ Wallpaper app built using Flutter
 ### Screenshots 📸
 
 
-<style>
-img{
-height:550px;
-border-radius : 32px;
-}
 
-.image-wrapper{
-  display: flex;
-  gap:12px
+<div style = "display: flex; gap: 12px; height : 550px">
+
   
-}
+  <img src="/Screenshot_20230301-212818.png" alt="Wallpaper grid" style="height: 550px;"/>
+  
+    
+  <img src="/Screenshot_20230301-212842.png" alt="Preview" style="height: 550px;"/>
+  
+    
+  <img src="/Screenshot_20230301-212851.png" alt="Apply options" style="height: 550px;"/>
 
-</style>
-
-<div class = "image-wrapper">
-
-<img src = "/Screenshot_20230301-212818.png"/>
 
 
 </div>
